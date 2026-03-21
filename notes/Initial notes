@@ -1,6 +1,6 @@
 Mishandled Bag Rate=(Total PassengersTotal Mishandled Bags​)×1000
 
-Business Question: How can we decrease the mishandled bag rate (MBR).
+Business Question: What are some factors that lead to mishandled baaggage and how can we decrease the mishandled bag rate (MBR).
 
 A. What was the Global MBR?
    1. A mishandled bag is any bag that is 
@@ -16,20 +16,27 @@ B. What factors impact the delayed luggage MBR?
                         catching a domestic flight <45 minutes from the arrival of their flight
                         catching an internation flight <90 minutes from the arrival of their flight
                - Possible that the passenger had time to make the connection but the bag didn't
-         b. delays leading to short or missed connections
+         b. Delays leading to short or missed connections (D0)
                 - Possible that the passenger had time to make the connection but the bag didn't
    2. Human error
       - Quality of training- training feedback questionaires
+      - Not reading tags properly, bags ending up on wrong flights or not flight at all
+      - Bag room not dropping off bags in appropriate time
+      - Transfer runners not picking up backs in appropriate time to bring to connecting flights
+C. What factors impact the damaged luggage?
+   1. Mishandled baggage by ramp crew/ transfer runners/ bag room?
+      - Rushing (falling off of beltloaders/ bag carts/ piers)
+      - Carelessness (not taking care of bags. Not closing bag carts so bags fall off) 
+D. What factors impact the lost luggage?
 
-
-
-
-  A. Directly impacts the NPR (net promotor score)
-  B. Impacted by the number of on time departured (D0)
+E. Business implications for a high MBR.
+  1. Directly impacts the NPR (net promotor score)
+         - Customer satisfaction will decrease as MBR increases.
+         - Determine the correlations between MBR and NPR by hub location.
+         - People will not trust us with their property and will be less likely to fly with Delta again...ultimately hurting finances
+  2. It is costly!
+         Lost luggage: $
+         Delayed luggage: $
+         Damaged luggage: $
+   3. Impacts the Delta brand
       
-  C. Impacted by the quality of training.
-      1A. Training Feedback questionaires
-  D. How does this impact delta financially?
-      Lost luggage:
-      Delayed luggage: 
-      Damaged luggage: 
